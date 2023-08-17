@@ -1,0 +1,29 @@
+body{
+    background-color: blanchedalmond;
+}
+
+
+div{
+    text-align: center;
+}
+
+button{
+    height: 2.5em;
+    width: 5.5em;
+    color: aliceblue;
+    border: none;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.start-btn{
+    background-color: green;
+}
+.pause-btn{
+    background-color: grey;
+}
+.stop-btn{
+    background-color: red;
+}
